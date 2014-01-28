@@ -1,0 +1,6 @@
+# Normalize line endings
+*        text=auto
+
+*.html   text diff=html
+*.css    text
+*.js     text
