@@ -28,7 +28,7 @@ Here is a list of some examples:
 Features
 -------------
 
-- option to prefer the advanced (2*x+1) over (x?3:1) with equal length
+- option to prefer the advanced `(2*x+1)` over `(x?3:1)` with equal length
 - moves stuff around for better operator precedence (prevents some parentheses)
 - automatically removes unnecessary `+0`, `0-`, `+-` and double parentheses
 
@@ -40,6 +40,6 @@ To Do
 Copyright and License
 -------------
 
-Copyright © 2012 Ajax Isepic (ajax333221)
+Copyright © 2014 Ajax Isepic (ajax333221)
 
 Licensed under MIT License: http://opensource.org/licenses/mit-license.php
