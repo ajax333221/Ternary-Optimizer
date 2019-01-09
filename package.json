@@ -1,0 +1,22 @@
+{
+  "name": "ternary-optimizer",
+  "version": "1.0.1",
+  "title": "Ternary-Optimizer.js",
+  "description": "A JavaScript code golf tool for the ternary operator",
+  "keywords": [
+    "ternary operator",
+    "code golf",
+    "tool"
+  ],
+  "author": {
+    "name": "Ajax Isepic"
+  },
+  "main": "js/ternary-optimizer.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ajax333221/Ternary-Optimizer.git"
+  },
+  "bugs": "https://github.com/ajax333221/Ternary-Optimizer/issues",
+  "private": true,
+  "license": "MIT"
+}

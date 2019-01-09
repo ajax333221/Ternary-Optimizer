@@ -1,6 +1,5 @@
-# Normalize line endings
-*        text=auto
+# AUTO-DETECT
+* text=auto
 
-*.html   text diff=html
-*.css    text
-*.js     text
+# JS files use LF
+*.js eol=lf
