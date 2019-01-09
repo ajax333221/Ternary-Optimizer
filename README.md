@@ -32,7 +32,7 @@ Here is a list of some examples:
 Demo
 -------------
 
-http://ajax333221.github.io/Isepic-Chess/
+http://ajax333221.github.io/Ternary-Optimizer/
 
 Features
 -------------
